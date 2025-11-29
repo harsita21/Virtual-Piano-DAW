@@ -6,7 +6,6 @@ A Java-based Virtual Piano and Mini-Digital Audio Workstation (DAW). This applic
 
 **[Watch Demo](https://drive.google.com/file/d/1C9NBPV-_MbS7zDTleflCXtOdQAYadHei/view?usp=sharing)**
 
----
 
 ## ✨ Features
 
