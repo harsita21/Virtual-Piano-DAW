@@ -2,7 +2,7 @@
 
 A Java-based Virtual Piano and Mini-Digital Audio Workstation (DAW). This application allows users to play a virtual piano using their mouse, record their sessions, and manage their recordings with a simple graphical user interface.
 
-## 📂 Drive Link / Demo
+## 📽️ Demonstration
 
 **[Watch Demo](https://drive.google.com/file/d/1C9NBPV-_MbS7zDTleflCXtOdQAYadHei/view?usp=sharing)**
 
